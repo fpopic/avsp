@@ -10,7 +10,7 @@ Lab3 - NodeRank, ClosestBlackNode problemsss
 
 Lab4 - DGIM algorithm for couning 1's in a bit stream
 
-## Test Resources
+## Source Code
 src/main/*
 
 ## Test Resources
