@@ -1,8 +1,8 @@
 # AVSP
-Big Data Analysis Student assignments
+Big Data Analysis Student assignments (in Java):
 
 
-Lab1 - Java - SimHash, SimHashBuckets
+Lab1 - SimHash, SimHashBuckets
 
 Lab2 - PCY algorithm
 
@@ -11,10 +11,10 @@ Lab3 - NodeRank, ClosestBlackNode problemsss
 Lab4 - DGIM algorithm for couning 1's in a bit stream
 
 ## Test Resources
-'''src/main/*'''
+```src/main/*```
 
 ## Test Resources
-'''src/res/*'''
+```src/res/*```
 
 ## Unit Tests
-'''src/test/*'''
+```src/test/*```
