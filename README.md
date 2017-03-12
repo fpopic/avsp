@@ -6,7 +6,7 @@ Lab1 - SimHash, SimHashBuckets
 
 Lab2 - PCY algorithm
 
-Lab3 - NodeRank, ClosestBlackNode problemsss
+Lab3 - NodeRank, ClosestBlackNode problem
 
 Lab4 - DGIM algorithm for couning 1's in a bit stream
 
